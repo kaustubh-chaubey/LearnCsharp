@@ -35,5 +35,5 @@ Welcome to my **C# Notes Hub** — a neatly organized and growing collection of 
 Clone the repo and explore:
 
 ```bash
-git clone https://github.com/your-username/csharp-notes.git
-cd csharp-notes
+git clone https://github.com/kaustubh-chaubey/LearnCsharp.git
+cd LearnCsharp
